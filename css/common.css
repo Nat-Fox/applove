@@ -17,3 +17,7 @@
 .text-uppercase {
     text-transform: uppercase;
 }
+
+.m-0 {
+    margin: 2px;
+}
