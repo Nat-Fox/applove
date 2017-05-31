@@ -179,7 +179,7 @@ footer {
 
 /* Estilos para el modal */
 
-#img-galery-modal {
+#work-galery-modal {
     background-color: #87bf75;
     width: 100%;
     height: 100%;
@@ -191,7 +191,7 @@ footer {
 
 /* Estilos para la imagen a mostrar en el modal*/
 
-#img-galery-modal .modal-galeria {
+#work-galery-modal .modal-galeria {
     width: 60%;
     margin: 0 auto;
     text-align: center;
@@ -201,7 +201,7 @@ footer {
 
 /* Estilos para la posicion de la x */
 
-#img-galery-modal .close {
+#work-galery-modal .close {
     position: absolute;
     top: 112px;
     right: 20px;
@@ -210,7 +210,7 @@ footer {
     margin-right: 300px;
 }
 
-#img-galery-modal .close img {
+#work-galery-modal .close img {
     width: 23px;
 }
 

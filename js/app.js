@@ -9,7 +9,7 @@
     // Array.from para que reconozca la clase como un arreglo
     var fotos = Array.from(document.getElementsByClassName('img-galery'));
     // Id perteneciente al div donde ubicaremos el modal
-    var modalFoto = document.getElementById('img-galery-modal');
+    var modalFoto = document.getElementById('work-galery-modal');
     var modalGaleria, close, img;
     fotos.forEach(function(foto) {
         foto.addEventListener('click', function() {
