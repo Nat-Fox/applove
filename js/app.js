@@ -33,6 +33,7 @@
             // Se agrega la imagen a img con src
             img = document.createElement('img');
             img.setAttribute('src', 'https://www.iconfinder.com/data/icons/geomicons/32/672366-x-128.png');
+            img.setAttribute('class', 'opacity-img');
 
             // Se apenda la img de x a close y esto al modal foto
             close.appendChild(img);

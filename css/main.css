@@ -186,7 +186,16 @@ footer {
     position: fixed;
     top: 0;
     left: 0;
+    background-color: rgba(135, 191, 117, 0.8)
 }
+
+
+/* Opacidad en el modal */
+
+
+/*.opacity-img {
+    background-color: rgba(0, 0, 255, 0.5)
+}*/
 
 
 /* Estilos para la imagen a mostrar en el modal*/
